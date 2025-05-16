@@ -1,6 +1,4 @@
-# untitled1
-
-A new Flutter project.
+# Frankie App!!!
 
 ## Getting Started
 
